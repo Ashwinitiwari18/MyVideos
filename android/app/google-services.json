@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "424364782780",
+    "project_id": "my-videos-cda70",
+    "storage_bucket": "my-videos-cda70.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:424364782780:android:cd6c0b09a6fb1b07210cb9",
+        "android_client_info": {
+          "package_name": "com.example.getx_tutorial"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFj72hUdIUadQdhhIMLFWljFkkp-1ZE-E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
