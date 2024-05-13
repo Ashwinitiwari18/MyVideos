@@ -1,7 +1,7 @@
-# MyVideos Project
+# VBuddy Project
 
 ## Overview:
-MyVideos is a Flutter-based multimedia application leveraging Firebase services for storage, authentication, and real-time functionality. Seamlessly integrating Firebase Firestore and Cloud Storage, this platform provides a dynamic video-sharing experience.
+VBuddy is a Flutter-based multimedia application leveraging Firebase services for storage, authentication, and real-time functionality. Seamlessly integrating Firebase Firestore and Cloud Storage, this platform provides a dynamic video-sharing experience.
 
 ## Key Features:
 
